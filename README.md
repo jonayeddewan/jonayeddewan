@@ -1,3 +1,4 @@
+![logo](https://github.com/jonayeddewan/jonayeddewan/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Md. Jonayed Dewan</h1>
 <h3 align="center">A passionate Electrical & Computer Engineer from Bangladesh</h3>
 
